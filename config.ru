@@ -8,4 +8,4 @@ class App < Sinatra::Base
   
 end
 
-run App
+run ApplicationController
